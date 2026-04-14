@@ -1,0 +1,15 @@
+title: "My Awesome Site"
+email: "emily.schneider@comalisd.org"
+description: >- Drafts of my eLearning Module on Social Skills
+baseurl: /projectname
+url: "https://ems1979.github.io"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - .jekyll-cache/
